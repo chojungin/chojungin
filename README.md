@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 	</h5>
 </div>
 
-<h2>MY COZY BLOG .. 😘</h2>
+<h2>MY COZY SPACE .. 😘</h2>
 <div>
 	<h5>
-		TISTORY : https://dev-kumchuckee.tistory.com/
-	</h5
+		<a href="https://dev-kumchuckee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=Tistory&logoColor=white" /></a>
+	</h5>
 </div>
