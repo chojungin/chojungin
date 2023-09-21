@@ -38,3 +38,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/React%20Native-673AB8?style=for-the-badge&logo=createreactapp&logoColor=white" />
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
 </h5>
+
+<h2>MY COZY BLOG .. 😘</h2>
+<h5>
+	https://dev-kumchuckee.tistory.com/
+</h5>
