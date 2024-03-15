@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <div>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
  	<img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 	<br>
@@ -33,7 +35,6 @@ Here are some ideas to get you started:
 <h2>📢NOW I AM LEARNING THESE SKILLS</h2>
 <div>
 	<h5>
-		<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 		<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 		<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 		<img src="https://img.shields.io/badge/React%20Native-673AB8?style=for-the-badge&logo=createreactapp&logoColor=white" />
